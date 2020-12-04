@@ -1,7 +1,5 @@
 # proyecto_sistema-para-escuelas
 
-(EN PROCESO)
-
   Sistema para una escuela como parte del curso de "Bases de datos en Python".
   
   Este sistema permite registrar nuevos alumnos, profesores y cursos.  
